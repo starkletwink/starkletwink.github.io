@@ -1,5 +1,5 @@
 /*!
- * Project_Name: Beauty Salon Template
+ * Project_Name: Themezy Band Template
  * Author: Themezy
  * Email: info@themezy.com
  * URL: http://themezy.com
@@ -12,16 +12,20 @@
  			"libs/mixins",
  			"libs/normalize",
  			"libs/global",
- 			"libs/components",
- 			"libs/lightbox",
+ 			"libs/component",
 
  			// importing bootstrap grid framework
  			"libs/bootstrap-grid/settings",
  			"libs/bootstrap-grid/mixins",
  			"libs/bootstrap-grid/grid",
 
-			// importing layout styles
  			"layout/header",
  			"layout/content",
- 			"layout/footer";
+ 			"layout/sidebar",
+ 			"layout/footer",
+
+ 			"pages/homepage",
+ 			"pages/post",
+ 			"pages/gallery",
+ 			"pages/download";
 			
